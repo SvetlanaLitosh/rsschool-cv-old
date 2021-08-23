@@ -34,6 +34,15 @@ return current
 }
 ```
 ***
-### Courses:
+### Courses:  
+* __HTML5, CSS3__ 
+  * https://htmlacademy.ru/
+  * https://ru.code-basics.com/
+  * https://www.w3schools.com/
+* __JavaScript__ 
+  * https://learn.javascript.ru/
+  * https://ru.code-basics.com/
+* __QA Basics__ 
+  * https://learn.epam.com/
 ***
 ### Languages:
