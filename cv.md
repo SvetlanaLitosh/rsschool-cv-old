@@ -15,7 +15,7 @@ __[LinkedIn](https://www.linkedin.com/in/svetlana-litosh-4b2877218/)__
 * JavaScript Basics
 * Git, GitHub
 * VS Code
-* QA Basics
+* QA Basics, AQA Basics
 ***
 ### Code example:  
 We're writing code to control town's traffic lights. These the function that takes a string as an argument representing the current state of the light and returns a string representing the state the light should change to.
@@ -42,7 +42,11 @@ return current
 * __JavaScript__ 
   * https://learn.javascript.ru/
   * https://ru.code-basics.com/
-* __QA Basics__ 
+* __QA,AQA__ 
   * https://learn.epam.com/
 ***
 ### Languages:
+* __English__ https://www.efset.org/quick-check/take-test#set15-190/result  
+![result alt-Intermediate](/rsschool-cv/intermediate.jpg) My level of English is in the range of B1 INTERMEDIATE to B2 UPPER INTERMEDIATE
+
+* __Russian__ Native
