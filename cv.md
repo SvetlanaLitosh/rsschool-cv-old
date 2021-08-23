@@ -17,7 +17,22 @@ __[LinkedIn](https://www.linkedin.com/in/svetlana-litosh-4b2877218/)__
 * VS Code
 * QA Basics
 ***
-### Code example:
+### Code example:  
+We're writing code to control town's traffic lights. These the function that takes a string as an argument representing the current state of the light and returns a string representing the state the light should change to.
+```
+function updateLight(current) {
+  
+  if (current === 'green'){
+    current = 'yellow'
+  } else if (current === 'yellow') {
+    current = 'red'
+  } else if (current === 'red') {
+    current = 'green'
+  } else {}
+
+return current
+}
+```
 ***
 ### Courses:
 ***
