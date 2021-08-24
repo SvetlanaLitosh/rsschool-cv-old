@@ -9,7 +9,7 @@ __[GitHub](https://github.com/SvetlanaLitosh)__
 __[LinkedIn](https://www.linkedin.com/in/svetlana-litosh-4b2877218/)__
 ***
 ### Briefly About Myself:
-I attended the Belarusian State University of Transport Electrotehnical faculte in 2009.   
+I attended the Belarusian State University of Transport Electrotehnical faculty in 2009.   
 Having started my career as Insurance Sales Agent in a Belrosstrakh with minimum skills, I became proficient in Insurance Sales. My keen interest in Insurance Sales technologies led me to working as a Team Lead Manager. In 2015, I quit my job,because my first child was born, in 2018 my second child was born.  
 Two years ago I’ve become passionate about Front-end . All my extra free time, I spend learning Frontend Development.
 I am interested in web development, because this occupation provides endless opportunities for professional growth,
