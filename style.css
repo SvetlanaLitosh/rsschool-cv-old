@@ -11,11 +11,12 @@ header {
     margin: auto;
     padding: 1rem;
     background-color: rgb(126, 214, 214); 
-    width: 60rem;
+    width: auto;
     height: 300px;
+
 }
 .foto{
-    float: right; 
+    float: left; 
     background-color: rgb(126, 214, 214); 
     
 }
@@ -23,7 +24,7 @@ aside {
     padding: 10px 30px 60px;
     background-color:rgb(126, 214, 214) ;
     float: right; 
-    margin: 100px 0px;
+    margin: 0px 0px;
     font-family: Georgia, 'Times New Roman', Times, serif;
 
 }
@@ -35,4 +36,9 @@ aside {
     margin: auto;
     background-color: rgb(168, 238, 238); 
     width: 60rem;
+}
+
+
+.footer {
+    background-color: rgb(126, 214, 214); 
 }
