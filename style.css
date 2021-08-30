@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 150%;
+ 
+}
+header {
+    height: 100%;
+    margin: auto;
+    padding: 1rem;
+    background-color: rgb(126, 214, 214); 
+    width: 60rem;
+    height: 300px;
+}
+.foto{
+    float: right; 
+    background-color: rgb(126, 214, 214); 
+    
+}
+aside {
+    padding: 10px 30px 60px;
+    background-color:rgb(126, 214, 214) ;
+    float: right; 
+    margin: 100px 0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.about {
+    line-height: 150%;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-indent: 15px;
+    margin: auto;
+    background-color: rgb(168, 238, 238); 
+    width: 60rem;
+}
