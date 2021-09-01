@@ -8,50 +8,84 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <main>
-        <header>
+    <header>
+        <div class="container">
+        <h1>Svetlana Litosh</h1>
+        <h2>Junior Frontend Developer</h2>
+        </div>
+    </header>
+
+    <aside>
+        <div class="container">
             <div class="foto" >
                 <figure>
                     <img src="foto.jpg" width="200" height="280" alt="foto">
                 </figure>
             </div>
-        <h1>Svetlana Litosh</h1>
-        <h2>Junior Frontend Developer</h2>
-        </header>
-        <aside>
             <section >
-                <div>
                     <h2>Contacts</h2>
-                </div>
-                <ul>
-                    <li>
+                    <ul>
+                        <li>
                         <a href= "tel: +375 29 6422284"> +375 29 6422284</a>  
-                    </li>
-                    <li>
+                        </li>
+                        <li>
                         <a href="mailto: Tsurik06@gmail.com">Tsurik06@gmail.com</a>
-                    </li>
-                    <li>
+                        </li>
+                        <li>
                         <a href="https://github.com/SvetlanaLitosh"> GitHub </a>
-                    </li>
-                    <li>
+                        </li>
+                        <li>
                         <a href="https://www.linkedin.com/in/svetlana-litosh-4b2877218/">LinkedIn</a>
-                    </li>
+                        </li>
+                    </ul>
+                <br>
+            </section> 
+            <section>
+                <h2>Skills</h2>
+                <ul>
+                    <li> HTML5, CSS3 </li>
+                    <li> JavaScript Basics </li>
+                    <li> Git, GitHub </li>
+                    <li> VS Code </li>
+                    <li> QA Basics, AQA Basics </li>
+                </ul>
+            <br>
+            </section>
+            <section>
+                <h2>Courses</h2>
+                <ul>
+                    <li> HTML5, CSS3 </li>
+                        <ul>
+                            <li> <a href="https://htmlacademy.ru/">https://htmlacademy.ru/</a></li>
+                            <li> <a href="https://ru.code-basics.com/">https://ru.code-basics.com/</a></li>
+                            <li> <a href="https://www.w3schools.com/">https://www.w3schools.com/</a></li>
+                        </ul>
+                    <li> JavaScript </li>
+                        <ul>
+                            <li><a href="https://learn.javascript.ru/"> https://learn.javascript.ru/ </a></li>
+                            <li><a href="https://ru.code-basics.com/"> https://ru.code-basics.com/ </a></li>
+                        </ul>
+                    <li> QA,QAA </li>
+                        <ul>
+                            <li><a href="https://learn.epam.com/"> https://learn.epam.com/ </a></li>
+                        </ul>
+                </ul>
+            <br>
+            </section>
+            <section>
+            <h2>Hobby</h2>
+                <ul>
+                    <li> Dogs</li>
+                    <li>Children</li>
+                    <li>Motorsport</li>
                 </ul>
             </section>
-        <section>
-            <h2>Skills</h2>
-            <ul>
-                <li> HTML5, CSS3 </li>
-                <li> JavaScript Basics </li>
-                <li> Git, GitHub </li>
-                <li> VS Code </li>
-                <li> QA Basics, AQA Basics </li>
-            </ul>
-        </section>
-        </aside>
-        
+        </div>
+    </aside>
+        <main>  
         <section class="all">
             <h3>About me:</h3>
+            
             <p>I attended the Belarusian State University of Transport, 
                 Electroteсhnical faculty in 2009.</p>
             <p>Having started my career as Insurance Sales Agent in a 
@@ -69,11 +103,9 @@
         <section class="all">
             <h3>Code example:</h3>
             <p> We're writing code to control town's traffic lights. 
-                These the function that takes a string as an argument
-                 representing the current state of the light and returns
-                a string representing the state the light should change
-                to. </p>
+                 </p>
                 <pre>
+
                     function updateLight(current) {
   
                         if (current === 'green'){
@@ -89,31 +121,12 @@
                 </pre>
         </section>
         <section class="all">
-            <h3>Courses</h3>
-            <ul>
-                <li> HTML5, CSS3 </li>
-                    <ul>
-                        <li> <a href="https://htmlacademy.ru/">https://htmlacademy.ru/</a></li>
-                        <li> <a href="https://ru.code-basics.com/">https://ru.code-basics.com/</a></li>
-                        <li> <a href="https://www.w3schools.com/">https://www.w3schools.com/</a></li>
-                    </ul>
-                <li> JavaScript </li>
-                    <ul>
-                        <li><a href="https://learn.javascript.ru/"> https://learn.javascript.ru/ </a></li>
-                        <li><a href="https://ru.code-basics.com/"> https://ru.code-basics.com/ </a></li>
-                    </ul>
-                <li> QA,QAA </li>
-                    <ul>
-                        <li><a href="https://learn.epam.com/"> https://learn.epam.com/ </a></li>
-                    </ul>
-            </ul>
-        </section>
-        <section class="languages">
             <h3>Languages</h3>
-            <h3>English</h3>
-            <a href="https://www.efset.org/quick-check/take-test#set15-190/result"> Result </a>
-            <img src="intermediate.jpg" alt="B1" width="200">
-            <h3>Russian</h3>
+            <h4>English</h4>
+            <div><a href="https://www.efset.org/quick-check/take-test#set15-190/result"> B1 </a></div>
+            <div><img src="intermediate.jpg" alt="B1" width="200"> </div>
+            <h4>Russian</h4> 
+            <p>Nativ</p>
         </section>
     </main>
     <footer>
