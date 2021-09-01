@@ -47,7 +47,7 @@ return current
 * __JavaScript__ 
   * https://learn.javascript.ru/
   * https://ru.code-basics.com/
-* __QA,AQA__ 
+* __QA,QAA__ 
   * https://learn.epam.com/
 ***
 ### Languages:
