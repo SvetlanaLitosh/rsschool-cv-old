@@ -1,4 +1,4 @@
-*{
+* {
     box-sizing: border-box;
     margin: 0px;
     padding: 0px;
@@ -6,13 +6,18 @@
     line-height: 150%;
  
 }
+.container{
+    margin: auto;
+    max-width: 1180px;
+}
 header {
     height: 100%;
     margin: auto;
     padding: 1rem;
     background-color: rgb(126, 214, 214); 
     width: auto;
-    height: 300px;
+    height: 100px;
+    text-align: center;
 
 }
 .foto{
@@ -21,24 +26,33 @@ header {
     
 }
 aside {
-    padding: 10px 30px 60px;
+    padding: 10px 30px 20px;
     background-color:rgb(126, 214, 214) ;
-    float: right; 
-    margin: 0px 0px;
+    float: left; 
+    margin: 0px 10px;
+    text-indent: 15px;
     font-family: Georgia, 'Times New Roman', Times, serif;
 
 }
-.about {
+.all {
     line-height: 150%;
-    font-size: 20px;
+    font-size: 18px;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    text-indent: 15px;
+    text-indent: 20px;
     margin: auto;
     background-color: rgb(168, 238, 238); 
-    width: 60rem;
+    width: auto;
+    padding: 10px 30px 20px;
+
+
 }
-
-
-.footer {
+.footer { 
+    height: 100%;
+    margin: auto;
+    padding: 1rem;
     background-color: rgb(126, 214, 214); 
+    width: auto;
+    height: 100px;
+    text-align: center;
+    
 }
